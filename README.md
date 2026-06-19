@@ -60,6 +60,13 @@ React.js • Flask • HTML • CSS • Tailwind CSS
 - Power BI Dashboard Development
 - Business Insights & Visualization
 
+### 👥 Study Group Finder
+
+- Student Matching & Group Formation
+- Interest & Skill-Based Recommendations
+- Real-Time Chat & Collaboration
+- Event Scheduling & Study Planning
+  
 ### 📊 Retail Sales Analytics
 - Exploratory Data Analysis
 - Statistical Analysis
